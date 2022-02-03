@@ -23,8 +23,8 @@ In this session, we are going to be deploying an application within a **Docker**
       #########################################
       # Variables #
       #########################################
-      ARG orgname="organization name"
-      ARG reponame="repository name"
+      ARG orgname="BCBSA"
+      ARG reponame="pub-sec-t3-atulksingh"
 
       #########################################
       # Label the instance and set maintainer #
